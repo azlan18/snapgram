@@ -1,12 +1,9 @@
-# snapgram
+# Live Link: https://snapgram-chat-app-prod.onrender.com/login
 
-## Setup Steps
+## Setup Steps:
+## Step 1: Clone the repo
 
-## Step 1 Clone the repo
-```
-git clone 
-```
-## Step 2 Create a .env file in the root folder and add the following 
+## Step 2: Create a .env file in the root folder and add the following 
 ```
 PORT = 5000 
 MONGO_DB_URI = <your_mongo_uri>
@@ -18,7 +15,7 @@ NODE_ENV = development
 npm run build
 npm run start
 ```
-# Step 4 Visit App on localhost:5000
+# Step 4: Visit App on localhost:5000
 
 
 
